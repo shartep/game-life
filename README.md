@@ -1,6 +1,11 @@
 # game-life
 Implementation of game Life
 
+#Run instructions
+implemented with ruby 2.6.4
+
+execute `ruby app.rb` to run application
+
 #Instructions:
 This task should be implemented server side only, using Ruby. What we’re looking for in your code is readability and easy maintenance. We want to see code that reveals its intent to the reader and follows best practices. To accomplish this you can use any paradigm you want.
 
